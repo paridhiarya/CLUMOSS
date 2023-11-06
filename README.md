@@ -25,7 +25,7 @@ For any questions or inquiries related to this repository or the internship, ple
 
 - Paridhi
 - Email: paridhi@example.com
-- LinkedIn: [Paridhi's LinkedIn Profile](https://www.linkedin.com/in/paridhi)
+- [LinkedIn](www.linkedin.com/in/paridhiarya)
 
 We appreciate your interest in the CLUMOSS internship program and look forward to successful task submissions. Thank you!
 
