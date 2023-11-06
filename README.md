@@ -21,11 +21,12 @@ All task submissions for the internship will be added to the respective folders 
 
 ## Contact
 
-For any questions or inquiries related to this repository or the internship, please feel free to contact:
+For any questions or inquiries about this project, please contact:
 
-- Paridhi
-- Email: paridhi@example.com
-- [LinkedIn](www.linkedin.com/in/paridhiarya)
+
+- Name: Paridhi 
+- Mail: paridhiarya22@gmail.com, paridhi.a21@iiits.in
+- Socials: Linked in Github profile
 
 We appreciate your interest in the CLUMOSS internship program and look forward to successful task submissions. Thank you!
 
